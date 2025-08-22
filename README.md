@@ -2,7 +2,7 @@
 
 ---
 
-### **Requirements: **
+### **Requirements:**
  1- .NET 8.0 or Higher.
  
 
