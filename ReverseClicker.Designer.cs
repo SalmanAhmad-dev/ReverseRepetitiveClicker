@@ -1,6 +1,6 @@
 ﻿namespace ReverseRepetitiveClicker
 {
-    partial class Form1
+    partial class ReverseClicker
     {
         /// <summary>
         ///  Required designer variable.
@@ -36,9 +36,9 @@
             // 
             // textBoxMaxN
             // 
-            textBoxMaxN.Location = new Point(305, 123);
+            textBoxMaxN.Location = new Point(283, 123);
             textBoxMaxN.Name = "textBoxMaxN";
-            textBoxMaxN.Size = new Size(112, 23);
+            textBoxMaxN.Size = new Size(78, 23);
             textBoxMaxN.TabIndex = 0;
             textBoxMaxN.TextAlign = HorizontalAlignment.Center;
             // 
@@ -55,7 +55,7 @@
             // label1
             // 
             label1.BackColor = Color.Transparent;
-            label1.Location = new Point(256, 126);
+            label1.Location = new Point(234, 123);
             label1.Name = "label1";
             label1.Size = new Size(43, 23);
             label1.TabIndex = 3;
@@ -70,7 +70,7 @@
             label2.TabIndex = 4;
             label2.Text = "Status";
             // 
-            // Form1
+            // ReverseClicker
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
@@ -80,8 +80,8 @@
             Controls.Add(label1);
             Controls.Add(button1);
             Controls.Add(textBoxMaxN);
-            Name = "Form1";
-            Text = "Form1";
+            Name = "ReverseClicker";
+            Text = "ReverseClicker";
             ResumeLayout(false);
             PerformLayout();
         }

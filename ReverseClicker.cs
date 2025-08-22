@@ -4,7 +4,7 @@ using System.Windows.Forms;
 
 namespace ReverseRepetitiveClicker
 {
-    public partial class Form1 : Form
+    public partial class ReverseClicker : Form
     {
         private const int HOTKEY_ID = 1;
         private const uint MOD_NONE = 0x0000;
@@ -29,7 +29,7 @@ namespace ReverseRepetitiveClicker
 
 
 
-        public Form1()
+        public ReverseClicker()
         {
             InitializeComponent();
             RegisterTabHotkey();
