@@ -1,0 +1,16 @@
+# Build folders
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+
+# VS Code settings
+.vscode/
+
+# Executables and logs
+*.exe
+*.dll
+*.pdb
+*.log
