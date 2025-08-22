@@ -3,8 +3,9 @@
 ---
 
 ### **Requirements:**
- 1- .NET 8.0 or Higher.
+ 1- Runtime .NET 8.0 or Higher.
  
+ Link : https://dotnet.microsoft.com/en-us/download/dotnet/9.0/runtime
 
 ## **Usage**
 
