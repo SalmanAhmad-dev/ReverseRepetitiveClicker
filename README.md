@@ -2,6 +2,10 @@
 
 ---
 
+### **Requirements: **
+ 1- .NET 8.0 or Higher.
+ 
+
 ## **Usage**
 
 **ReverseRepetitiveClicker** is a simple program designed to repeat a number of clicks in a **reverse manner**.  
